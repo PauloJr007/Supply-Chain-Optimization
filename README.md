@@ -5,4 +5,4 @@ Os mapas aqui gerados foram utilizados para simular deslocamentos realistas entr
 
 🔗 Caso tenha interesse em ver a análise completa, acesse meu portfólio:
 
-👉 Ou vá direto para o estudo do Caso 1:  <!-- Aqui você substitui o # pelo link real -->
+👉 Ou vá direto para o estudo do Caso 1: (https://paulorcj2007.wixsite.com/portfolio/general-clean)[https://paulorcj2007.wixsite.com/portfolio/general-clean]
