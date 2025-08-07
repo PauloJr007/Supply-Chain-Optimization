@@ -53,7 +53,7 @@ Contudo, é importante ressaltar que a abertura de um novo Centro de Distribuiç
 Portanto, **recomendei uma análise aprofundada de desempenho, demanda futura e projeções de crescimento das filiais da região Norte**, assegurando que a decisão seja sustentada por dados concretos e alinhada aos objetivos
 estratégicos da companhia.
   
-# Análises
+# 📊 Análises
 
 Foram analisadas as duas hipóteses estratégicas para otimização da operação logística na região Norte:  
 1. Otimização das rotas e avaliação de modais alternativos de transporte.
