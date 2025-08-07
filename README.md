@@ -36,3 +36,5 @@ A solução deveria considerar:
 - API REST: OpenRouteService
 - Excel
 - Power BI
+
+## ➕ Veja também o 2° case: [Análise de Churn e Retenção](link-para-o-readme-do-churn)
