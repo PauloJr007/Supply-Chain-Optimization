@@ -37,4 +37,4 @@ A solução deveria considerar:
 - Excel
 - Power BI
 
-## ➕ Veja também o 2° case: [Análise de Churn e Retenção](link-para-o-readme-do-churn)
+## ➕ Veja também o 2° case: [Análise de Churn e Retenção](https://github.com/PauloJr007/Analise-de-Churn)
