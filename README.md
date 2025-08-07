@@ -1,8 +1,38 @@
-# Análise de Dados – Otimização Logística e Redução de Churn
-### 🌍 Geração de Mapas Interativos para Supply Chain
-Esta é a etapa de visualização de rotas geográficas (via API do OpenRouteService) utilizada na análise do Caso 1: Supply Chain / Otimização Logística — parte de um desafio técnico durante um processo seletivo para uma empresa nacional do setor de logística e mobilidade urbana.
-Os mapas aqui gerados foram utilizados para simular deslocamentos realistas entre centros de distribuição e destinos estratégicos, com o objetivo de apoiar decisões logísticas e identificar oportunidades de otimização operacional.
+# 🚚 Análise de Dados – Otimização Logística
 
-🔗 Caso tenha interesse em ver a análise completa, acesse meu portfólio, veja esse e outros projetos: https://paulorcj2007.wixsite.com/portfolio/projetos
+## 🏢 Contexto
 
-👉 Ou vá direto para o estudo do Caso 1: https://paulorcj2007.wixsite.com/portfolio/general-clean
+Durante um case proposto por uma startup brasileira do setor de logística e mobilidade urbana, fui desafiado a resolver dois problemas reais enfrentados pela empresa. 
+
+O primeiro desafio envolvia a dificuldade logística no abastecimento de peças para as filiais da região Norte do Brasil. O segundo, disponível em outro repositório, tratava da alta taxa de cancelamento dos planos de aluguel de veículos.
+
+## 📁 Estrutura do Projeto
+
+- `Analise.md`: Documento completo com diagnóstico, hipóteses, soluções propostas e conclusões.
+- `maps.ipynb`: Notebook com os códigos em Python para gerar mapas interativos.
+- `mapas_gerados/`: Pasta contendo arquivos HTML e imagens (.png) dos mapas resultantes.
+
+## 📌 Desafio e Objetivos
+
+A empresa enfrentava:
+- Altos custos com transporte rodoviário.
+- Prazo médio de reposição de peças de até 12 dias.
+- Falta de espaço físico nas filiais para armazenamento.
+
+A solução deveria considerar:
+- Alternativas de modais logísticos (ex: hidroviário).
+- Análise geográfica para novo CD (Centro de Distribuição).
+- Criação de um plano de contingência logístico.
+
+## 🎯 Resultados Alcançados
+
+- 📉 Redução superior a 30% nos custos logísticos.
+- ⏱️ Diminuição de até 80% no tempo médio de reposição.
+- 📦 Alívio da sobrecarga de estoque nas filiais com espaço limitado.
+
+## 🛠️ Ferramentas Utilizadas
+
+- Python: `pandas`, `matplotlib`, `folium`, `geopy`, `openrouteservice`
+- API REST: OpenRouteService
+- Excel
+- Power BI
