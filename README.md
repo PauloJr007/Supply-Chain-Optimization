@@ -1,5 +1,7 @@
 # 🚚 Análise de Dados – Otimização Logística
 
+## [Clique aqui para ver a Análise Completa](https://northstar-logistics-dash-74.lovable.app)
+
 ## 🏢 Contexto
 
 Durante um case proposto por uma startup brasileira do setor de logística e mobilidade urbana, fui desafiado a resolver dois problemas reais enfrentados pela empresa. 
@@ -8,7 +10,6 @@ O primeiro desafio envolvia a dificuldade logística no abastecimento de peças 
 
 ## 📁 Estrutura do Projeto
 
-- `Analise.md`: Documento completo com diagnóstico, hipóteses, soluções propostas e conclusões.
 - `maps.ipynb`: Notebook com os códigos em Python para gerar mapas interativos.
 - `mapas_gerados/`: Pasta contendo arquivos HTML e imagens (.png) dos mapas resultantes.
 
